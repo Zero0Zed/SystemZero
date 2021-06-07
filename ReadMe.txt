@@ -1,6 +1,6 @@
 requirements:
 
-install requests library and pyfiglet library
+install requests , pyfiglet and colorama library
 
 
 Run :
