@@ -3,7 +3,7 @@ Send your system information or anyone else to your Telegram bot
 
 requirements:
 
-install requests library and pyfiglet library
+install requests , pyfiglet and colorama library
 
 Run :
 
