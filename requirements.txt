@@ -1,0 +1,9 @@
+requirements:
+
+install libraries: 
+
+1 => requests
+
+2 => pyfilglet
+
+3 => colorama
